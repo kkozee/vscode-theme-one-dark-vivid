@@ -1,0 +1,23 @@
+{
+    "name": "theme-one-dark-vivid",
+    "displayName": "One Dark Vivid",
+    "description": "Atom's One Dark Vivid Theme for VS Code",
+    "version": "0.0.4",
+    "publisher": "kkozee",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.svg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Vivid",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDarkVivid.json"
+            }
+        ]
+    }
+}
