@@ -10,7 +10,7 @@
     "editorCursor.foreground": "#528bff",
     "editorWhitespace.foreground": "#484b5b",
     "sideBar.background": "#31343f",
-    "tab.activeBackground": "#31343f",
+    "tab.activeBackground": "#41444f",
     "activityBar.background": "#31343f",
     "titleBar.activeBackground":"#31343f",
     "tab.inactiveBackground": "#31343f",
