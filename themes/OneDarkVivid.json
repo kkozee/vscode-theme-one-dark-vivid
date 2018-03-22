@@ -14,7 +14,7 @@
     "activityBar.background": "#31343f",
     "titleBar.activeBackground":"#31343f",
     "tab.inactiveBackground": "#31343f",
-    "editorGroup.background": "editor.backgsround",
+    "editorGroup.background": "editor.background",
     "statusBar.background": "#31343f",
     "activityBarBadge.background": "#31343f",
     "debugExceptionWidget.background": "#31343f",
